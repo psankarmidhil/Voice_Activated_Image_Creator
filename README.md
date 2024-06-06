@@ -4,11 +4,13 @@
 # The project involved:
  Generative artificial intelligence (AI) describes algorithms that help in creating/generating new content, including audio, code, images, text and videos. 
 
-In this repo, we build a real-time Voice-to-Image Generator using the concept of Generative AI. It is carried out in two steps:
+ In this repo, we build a real-time Voice-to-Image Generator using the concept of Generative AI. It is carried out in two steps:
 
-# Voice-to-text conversion - The speech is captured in real-time through the microphone and converted to text using state-of-the-art Opensource AI models from OpenAI and Whisper libraries.
+# Voice-to-text conversion 
+ The speech is captured in real-time through the microphone and converted to text using state-of-the-art Opensource AI models from OpenAI and Whisper libraries.
  
-# Text to Image Generation - The converted text is provided as input to the state-of-the-art Image Generation models like Dalle-2, and the image is thus generated.
+# Text to Image Generation
+ The converted text is provided as input to the state-of-the-art Image Generation models like Dalle-2, and the image is thus generated.
 
 # Deployment Information
 
