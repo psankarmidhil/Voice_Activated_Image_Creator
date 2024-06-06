@@ -17,5 +17,6 @@ Testing and Optimization: Conducted rigorous testing to ensure accuracy and effi
 This project showcases expertise in machine learning, NLP, and image processing, demonstrating the ability to integrate complex technologies into a cohesive and functional application.
 
 Here is the Demo image of output for this system:
+
 ![Speech to Image](https://github.com/psankarmidhil/Voice_Activated_Image_Creator/assets/111223199/003e80c4-755f-4ff6-9d78-a57b90d0d79b)
 
