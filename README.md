@@ -16,7 +16,7 @@
 
  This repository helps you build your own AI based voice to image generation with OpenAI API & Gradio
 
-#Getting the secret key to use OPENAI API
+# Getting the secret key to use OPENAI API
 
 -> Get your OpenAI API key 
 -> Signup on the OpenAI platform if not done already.
@@ -24,7 +24,7 @@
 
 # Please keep the api key highly private and do not share with anyone.
 
-#If you face any access errors with , please check for the usage limits of your account, check the API keys limit and create another API key if possible. If not, try creating another account, create a new API key and utilize it.
+-> If you face any access errors with , please check for the usage limits of your account, check the API keys limit and create another API key if possible. If not, try creating another account, create a new API key and utilize it.
 
 # Here is the Demo image of output for this system:
 
